@@ -13,3 +13,13 @@ foundry
 
 # Boilerplate
 build/
+
+# Mac Related Things
+*.DS_Store
+
+# DB related things
+packs/**/CURRENT
+packs/**/LO*
+packs/**/MANIFEST-*
+packs/**/*.ldb
+packs/**/*.log
