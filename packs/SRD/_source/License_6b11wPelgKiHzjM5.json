@@ -1,0 +1,67 @@
+{
+  "folder": null,
+  "name": "License",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "License and Copyright",
+      "type": "text",
+      "_id": "OAHU7XIfX0hiI0o9",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 2,
+        "content": "<p>This work is based on Blades in the Dark (found at http://www.bladesinthedark.com/), product of One Seven Design, developed and authored by John Harper, and licensed for our use under the Creative Commons Attribution 3.0 Unported license (http://creativecommons.org/licenses/by/3.0/).</p>",
+        "markdown": "This work is based on Blades in the Dark (found at http://www.bladesinthedark.com/), product of One Seven Design, developed and authored by John Harper, and licensed for our use under the Creative Commons Attribution 3.0 Unported license (http://creativecommons.org/licenses/by/3.0/)."
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "X5003SVoTsqCqhLo": 3
+      },
+      "flags": {
+        "core": {
+          "sheetClass": "core.MarkdownJournalPageSheet"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "fitd",
+        "systemVersion": "0.0.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!6b11wPelgKiHzjM5.OAHU7XIfX0hiI0o9"
+    }
+  ],
+  "ownership": {
+    "default": 0,
+    "X5003SVoTsqCqhLo": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "fitd",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739992702900,
+    "modifiedTime": 1739992702900,
+    "lastModifiedBy": "X5003SVoTsqCqhLo"
+  },
+  "_id": "6b11wPelgKiHzjM5",
+  "sort": 0,
+  "_key": "!journal!6b11wPelgKiHzjM5",
+  "categories": []
+}

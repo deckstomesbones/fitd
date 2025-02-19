@@ -34,7 +34,14 @@
       "path": "lang/en.json"
     }
   ],
-  "packs": [],
+  "packs": [
+    {
+      "name": "SRD",
+      "label": "System Resource Document",
+      "system": "fitd",
+      "type": "JournalEntry"
+    }
+  ],
   "packFolders": [],
   "socket": false,
   "manifest": "https://raw.githubusercontent.com/deckstomesbones/fitd/refs/heads/main/system.json",
