@@ -1,5 +1,5 @@
 # CHANGELOG
 
-## 1.2.0
+## 0.0.1
 
-- Add support for Foundry v10
+- Convert the boilerplate example to our base Forged in the Dark project.
