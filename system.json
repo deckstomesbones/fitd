@@ -39,10 +39,17 @@
       "name": "SRD",
       "label": "System Resource Document",
       "system": "fitd",
+      "banner": "systems/fitd/assets/forged_in_the_dark_logo2_0.png",
       "type": "JournalEntry"
     }
   ],
-  "packFolders": [],
+  "packFolders": [
+    {
+      "name": "System Resource Document",
+      "sorting": "m",
+      "packs": ["SRD"]
+    }
+  ],
   "socket": false,
   "manifest": "https://raw.githubusercontent.com/deckstomesbones/fitd/refs/heads/main/system.json",
   "download": "This must link to a .zip file of the current version",
