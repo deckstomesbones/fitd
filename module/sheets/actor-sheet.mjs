@@ -79,8 +79,11 @@ export class FitdActorSheet extends ActorSheet {
    */
   _prepareCharacterData(context) {
     // Handle ability scores.
-    for (let [k, v] of Object.entries(context.system.abilities)) {
-      v.label = game.i18n.localize(CONFIG.FITD.abilities[k]) ?? k;
+    // for (let [k, v] of Object.entries(context.system.abilities)) {
+    //   v.label = game.i18n.localize(CONFIG.FITD.abilities[k]) ?? k;
+    // }
+    for (let [k, v] of Object.entries(context.system.actions)) {
+      v.label = game.i18n.localize(CONFIG.FITD.actions[k]) ?? k;
     }
   }
 
