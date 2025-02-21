@@ -8,6 +8,35 @@
       "Wis": { "long": "Wisdom", "abbr": "wis" },
       "Cha": { "long": "Charisma", "abbr": "cha" }
     },
+    "Attribute": {
+      "Insight" : {
+        "name": "Insight",
+        "Action": {
+          "Hunt": "Hunt",
+          "Study": "Study",
+          "Survey": "Survey",
+          "Tinker": "Tinker"
+        }
+      },
+      "Prowess": {
+        "name": "Prowess",
+        "Action": {
+          "Finesse": "Finesse",
+          "Prowl": "Prowl",
+          "Skirmish": "Skirmisk",
+          "Wreck": "Wreck"
+        }
+      },
+      "Resolve": {
+        "name": "Resolve",
+        "Action": {
+          "Attune": "Attune",
+          "Command": "Command",
+          "Consort": "Consort",
+          "Sway": "Sway"
+        }
+      }
+    },
     "SheetLabels": {
       "Actor": "Fitd Actor Sheet",
       "Item": "Fitd Item Sheet"
